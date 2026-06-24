@@ -40,8 +40,8 @@ http://localhost:3000
 ```
 ## Links
 
-- **Repository:** https://github.com/YOUR_USERNAME/aesthetic-training-hub
-- **Live Demo:** Coming soon — Vercel deployment link will be added here.
+- **Repository:** https://github.com/devjoseph1992/aesthetic-training-hub
+- **Live Demo:**  https://aesthetic-training-hub-seven.vercel.app
 
 ## What I Built
 
